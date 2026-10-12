@@ -15,3 +15,13 @@ metadata only; it contains no private app source, scans, user photos or credenti
 
 Original source archive SHA-256:
 e67652d0932cee41683f74711c03d3e192a2af9979ef8e6b237711f5482d46b0
+
+## Downloads
+
+- [Kitchen & bathroom](https://raw.githubusercontent.com/age0110/roomfit-furniture-packs/1e9fe556e02572654d4a9e3c49131d44c4503056/packs/kenney-v1/kenney-kitchen-bath-v1.json) — 35 models
+- [Lighting, rugs & decor](https://raw.githubusercontent.com/age0110/roomfit-furniture-packs/1e9fe556e02572654d4a9e3c49131d44c4503056/packs/kenney-v1/kenney-decor-v1.json) — 38 models
+- [Beds & storage](https://raw.githubusercontent.com/age0110/roomfit-furniture-packs/1e9fe556e02572654d4a9e3c49131d44c4503056/packs/kenney-v1/kenney-beds-storage-v1.json) — 13 models
+- [Seating](https://raw.githubusercontent.com/age0110/roomfit-furniture-packs/1e9fe556e02572654d4a9e3c49131d44c4503056/packs/kenney-v1/kenney-seating-v1.json) — 20 models
+- [Tables & desks](https://raw.githubusercontent.com/age0110/roomfit-furniture-packs/1e9fe556e02572654d4a9e3c49131d44c4503056/packs/kenney-v1/kenney-tables-v1.json) — 14 models
+
+Downloads use a fixed Git commit and the checksums in manifest.json.
