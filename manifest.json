@@ -5,7 +5,7 @@
     "count": 35,
     "bytes": 1166408,
     "sha256": "99078d77f5d80bbf7afe905edb7802c7f9417a74d51e6a0f51142d49f6f9735c",
-    "url": "https://github.com/age0110/roomfit-furniture-packs/releases/download/kenney-v1/kenney-kitchen-bath-v1.json",
+    "url": "https://raw.githubusercontent.com/age0110/roomfit-furniture-packs/1e9fe556e02572654d4a9e3c49131d44c4503056/packs/kenney-v1/kenney-kitchen-bath-v1.json",
     "assetIDs": [
       "F5844B1D-F302-5C79-816F-EEF0CBAB6F58",
       "BB596250-48CD-56A7-AB49-0DE66BBD3E9F",
@@ -50,7 +50,7 @@
     "count": 38,
     "bytes": 664804,
     "sha256": "a0202b50c68cbf478590ee445906ecbae97eb3a5ccb21130cac3d91524c90120",
-    "url": "https://github.com/age0110/roomfit-furniture-packs/releases/download/kenney-v1/kenney-decor-v1.json",
+    "url": "https://raw.githubusercontent.com/age0110/roomfit-furniture-packs/1e9fe556e02572654d4a9e3c49131d44c4503056/packs/kenney-v1/kenney-decor-v1.json",
     "assetIDs": [
       "26171A25-09E6-5DC0-9810-3A8968F9120D",
       "CB70CB55-0D42-5B68-BB30-81E7A6DA7A3E",
@@ -98,7 +98,7 @@
     "count": 13,
     "bytes": 425558,
     "sha256": "ecf21144fa19a80cdb304cfb57600844de8b275ca28a6afaf4d98adf34039579",
-    "url": "https://github.com/age0110/roomfit-furniture-packs/releases/download/kenney-v1/kenney-beds-storage-v1.json",
+    "url": "https://raw.githubusercontent.com/age0110/roomfit-furniture-packs/1e9fe556e02572654d4a9e3c49131d44c4503056/packs/kenney-v1/kenney-beds-storage-v1.json",
     "assetIDs": [
       "79FAED16-5261-5138-8B14-0AD2D9B6D951",
       "7D316269-DAD7-5B98-A74C-A258F5B55A63",
@@ -121,7 +121,7 @@
     "count": 20,
     "bytes": 515443,
     "sha256": "d176b01fb478c5a1573b056e8cc58dc3287516649b7473b6922d06e69bcb2399",
-    "url": "https://github.com/age0110/roomfit-furniture-packs/releases/download/kenney-v1/kenney-seating-v1.json",
+    "url": "https://raw.githubusercontent.com/age0110/roomfit-furniture-packs/1e9fe556e02572654d4a9e3c49131d44c4503056/packs/kenney-v1/kenney-seating-v1.json",
     "assetIDs": [
       "2CDB5485-8994-54E5-9AC5-ACDE327ABCB9",
       "4A4FCE8B-B35D-5C69-BC80-D61308438A22",
@@ -151,7 +151,7 @@
     "count": 14,
     "bytes": 325987,
     "sha256": "4534ba160b9e92c227f333da1436b88f638378a0a31f774a6dd1c0457e167457",
-    "url": "https://github.com/age0110/roomfit-furniture-packs/releases/download/kenney-v1/kenney-tables-v1.json",
+    "url": "https://raw.githubusercontent.com/age0110/roomfit-furniture-packs/1e9fe556e02572654d4a9e3c49131d44c4503056/packs/kenney-v1/kenney-tables-v1.json",
     "assetIDs": [
       "638325D9-C553-57FE-B42B-E781699382B7",
       "3CBA0F61-63D2-5E8E-9DF7-27647317D57E",
